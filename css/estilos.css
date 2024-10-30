@@ -81,5 +81,10 @@ main .techs .cards-container{
     align-items: center;
 }
 main .techs .cards-container .card{
-    
+    width: 120px;
+    height: 120px;
+    padding: 10%;
+    background-color: #eee;
+    border-radius: 8px;
+    margin-right: 1.8em;
 }
